@@ -1,4 +1,4 @@
-## Olá! Eu sou a ValdineiaflorenzanoVal
+## Olá! Eu sou a Valdineiaflorenzano
 📓 Hoje estudando Payton 
 🎯Analise de Desenvolvimento de Sistemas
 😊 Ela/Dela

@@ -7,9 +7,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=valdineiaflorenzano-max&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=pt-br&hide_border=false" height="151" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=valdineiaflorenzano-max&locale=pt-br&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=valdineiaflorenzano-max&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&custom_title=Payton" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=valdineiaflorenzano-max&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=pt-br&hide_border=false" height="151" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=valdineiaflorenzano-max&locale=pt-br&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -42,7 +41,11 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<br clear="both">
+
+<div align="center">
+  <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
 
 ###
 
@@ -55,9 +58,4 @@
 </picture>
 
 ###
-A white circle with a dark file icon outlined in the center
-Profile Readme Generator
-Developed and maintained by Mauro de Souza
-Github
-Donat
 

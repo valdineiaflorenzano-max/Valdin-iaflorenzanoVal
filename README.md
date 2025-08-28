@@ -5,7 +5,8 @@
 
 ## 
 
-Me chamo Valdineia Florenzano, tenho 45 anos e sou natural do Rio de Janeiro. Concluí o ensino médio no Escola Estadual Luiza Vieira. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Cruzeiro so Sul. Sou apaixonada por tecnologia.
+Me chamo Valdineia Florenzano, tenho 45 anos e sou natural do Rio de Janeiro. Concluí o ensino médio no Escola Estadual Luiza Vieira. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul. Sou apaixonada por tecnologia. Está imerso no mundo da tecnologia, aprendendo a projetar, desenvolver, testar e manter sistemas de software é uma realização. Estou me preparando para atuar na criação e otimização de soluções tecnológicas que atendam às necessidades de empresas e usuários.
+A análise de desenvolvimento de sistemas pode integrar os conceitos de inclusão e sustentabilidade de diversas maneiras, buscando soluções que sejam socialmente justas, ambientalmente responsáveis e economicamente viáveis. Isso envolve desde a avaliação do impacto ambiental dos sistemas até a promoção de inclusão digital e a consideração de práticas éticas no desenvolvimento.
 <p align="left">
     <a href="https://www.youtube.com/ValdineiaFlorenzano-max_confirmation=1">
  

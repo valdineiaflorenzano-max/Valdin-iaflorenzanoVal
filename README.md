@@ -5,7 +5,7 @@
 
 ## 
 
-Me chamo Valdineia Florenzano, tenho 45 anos e sou natural do Rio de Janeiro. Concluí o ensino médio no E. E. Luiza Vieira. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Cruzeiro so Sul. Sou apaixonada por tecnologia.
+Me chamo Valdineia Florenzano, tenho 45 anos e sou natural do Rio de Janeiro. Concluí o ensino médio no Escola Estadual Luiza Vieira. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Cruzeiro so Sul. Sou apaixonada por tecnologia.
 <p align="left">
     <a href="https://www.youtube.com/ValdineiaFlorenzano-max_confirmation=1">
  
